@@ -1,3 +1,8 @@
+# This script automates the process to track applications made to USCIS
+# 
+#
+# PERSONAL USE ONLY
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
